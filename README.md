@@ -1,5 +1,5 @@
 # CanvasDraw
-- Simple code to understanding what is Android Canvas.
+- Simple code to understanding what is Android Canvas class.
 - How to draw shape like Lines,Rectangels,Circels and More.
 
 
